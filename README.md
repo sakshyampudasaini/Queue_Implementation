@@ -17,10 +17,8 @@ No special installation required. Make sure Python 3.x is installed on your syst
 ## Usage
 1. Clone this repository or download the `queue.py` file.  
 2. Run the program with the following command in your terminal or command prompt:
-3. Follow the on-screen menu and input numbers to perform queue operations.
 
 ```bash
 python queue.py
 
-Author
-Sakshyam Pudasaini
+
